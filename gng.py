@@ -4,7 +4,7 @@ import time
 
 def connect():
     try: 
-        conn = psycopg2.connect(host = 'studentdb.csc.uvic.ca', user='c370_s156', password = '67TYfAGX')
+        conn = psycopg2.connect(host = 'host', user='user', password = 'passcode')
         return conn
     except psycopg2.Error as err:
         print("Unable to connect to the database")
