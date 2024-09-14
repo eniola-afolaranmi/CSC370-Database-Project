@@ -27,7 +27,7 @@ This Python script provides an interactive interface for managing and querying t
 
 ## Usage
 
-1. Run the Python script: ```python python gng_database_interface.py```
+1. Run the Python script: ```python python gng.py```
 
 2. Follow the on-screen menu prompts to perform various operations.
 3. Interact with the database by selecting options from the menu.
